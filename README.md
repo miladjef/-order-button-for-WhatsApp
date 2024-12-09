@@ -1,4 +1,4 @@
-﻿# order-button-for-WhatsApp
+﻿# order button for WhatsApp
 By placing this code snippet in your template function file, you can enable the order button via WhatsApp on the product page<br>
 This code snippet will also appear on the products page in the missing.de category and the existing products.<br>
 You can have a different SMS text and appearance in both cases<br>
